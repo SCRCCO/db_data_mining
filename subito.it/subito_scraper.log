@@ -1,0 +1,887 @@
+2024-06-04 19:06:31,665 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:06:31,958 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=0 HTTP/1.1" 301 90
+2024-06-04 19:06:32,020 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=0 HTTP/1.1" 200 41871
+2024-06-04 19:06:32,093 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:06:32,093 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:06:32,093 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:06:32,093 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:06:32,094 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:06:32,094 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:06:32,094 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:06:32,094 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:06:32,094 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:06:32,094 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:06:32,094 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:06:32,094 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:06:32,094 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:06:32,094 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:06:32,094 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:06:32,094 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:06:32,094 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:06:32,094 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:06:32,094 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:06:32,095 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:06:32,095 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:06:32,095 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:06:32,095 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:06:32,095 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:06:32,095 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:06:32,095 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:06:32,095 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:06:32,095 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:06:32,095 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:06:32,095 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:06:32,095 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:06:32,097 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:06:32,368 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=1 HTTP/1.1" 301 90
+2024-06-04 19:06:32,416 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=1 HTTP/1.1" 200 41663
+2024-06-04 19:06:32,488 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:06:32,488 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:06:32,488 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:06:32,488 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:06:32,488 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:06:32,488 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:06:32,488 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:06:32,488 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:06:32,488 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:06:32,488 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:06:32,488 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:06:32,488 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:06:32,488 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:06:32,489 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:06:32,489 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:06:32,489 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:06:32,489 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:06:32,489 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:06:32,489 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:06:32,489 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:06:32,489 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:06:32,489 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:06:32,489 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:06:32,489 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:06:32,489 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:06:32,489 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:06:32,489 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:06:32,489 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:06:32,489 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:06:32,489 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:06:32,490 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:06:56,728 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:06:57,094 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=0 HTTP/1.1" 301 90
+2024-06-04 19:06:57,159 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=0 HTTP/1.1" 200 41871
+2024-06-04 19:07:17,462 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:07:17,615 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=0 HTTP/1.1" 301 90
+2024-06-04 19:07:17,789 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=0 HTTP/1.1" 200 41871
+2024-06-04 19:07:17,924 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:07:17,924 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:07:17,924 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:07:17,924 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:07:17,924 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:07:17,924 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:07:17,924 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:07:17,924 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:07:17,924 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:07:17,924 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:07:17,924 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:07:17,924 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:07:17,925 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:07:17,925 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:07:17,925 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:07:17,925 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:07:17,925 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:07:17,925 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:07:17,925 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:07:17,925 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:07:17,925 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:07:17,925 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:07:17,925 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:07:17,925 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:07:17,925 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:07:17,925 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:07:17,925 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:07:17,925 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:07:17,925 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:07:17,926 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:07:17,926 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:07:17,928 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:07:18,194 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=1 HTTP/1.1" 301 90
+2024-06-04 19:07:18,302 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=1 HTTP/1.1" 200 41663
+2024-06-04 19:07:18,407 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:07:18,407 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:07:18,407 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:07:18,407 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:07:18,408 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:07:18,408 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:07:18,408 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:07:18,408 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:07:18,408 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:07:18,408 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:07:18,408 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:07:18,408 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:07:18,408 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:07:18,408 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:07:18,408 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:07:18,408 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:07:18,408 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:07:18,408 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:07:18,408 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:07:18,408 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:07:18,408 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:07:18,408 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:07:18,408 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:07:18,409 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:07:18,409 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:07:18,409 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:07:18,409 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:07:18,409 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:07:18,409 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:07:18,409 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:07:18,409 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:07:29,158 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:07:29,367 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=0 HTTP/1.1" 301 90
+2024-06-04 19:07:29,415 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=0 HTTP/1.1" 200 41871
+2024-06-04 19:07:37,896 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:07:37,897 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:07:37,897 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:07:37,898 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:07:37,898 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:07:37,899 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:07:37,899 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:07:37,900 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:07:37,900 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:07:37,901 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:07:37,901 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:07:37,902 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:07:37,903 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:07:37,903 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:07:37,904 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:07:37,904 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:07:37,904 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:07:37,905 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:07:37,905 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:07:37,906 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:07:37,906 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:07:37,907 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:07:37,907 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:07:37,907 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:07:37,908 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:07:37,908 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:07:37,909 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:07:37,909 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:07:37,909 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:07:37,910 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:07:37,910 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:07:37,914 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:07:38,231 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=1 HTTP/1.1" 301 90
+2024-06-04 19:07:38,306 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=1 HTTP/1.1" 200 41663
+2024-06-04 19:07:38,451 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:07:38,451 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:07:38,452 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:07:38,452 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:07:38,452 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:07:38,452 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:07:38,453 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:07:38,453 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:07:38,453 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:07:38,453 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:07:38,453 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:07:38,454 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:07:38,454 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:07:38,454 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:07:38,454 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:07:38,455 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:07:38,455 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:07:38,455 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:07:38,455 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:07:38,455 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:07:38,456 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:07:38,456 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:07:38,456 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:07:38,456 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:07:38,456 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:07:38,457 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:07:38,457 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:07:38,457 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:07:38,457 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:07:38,458 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:07:38,458 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:09:32,036 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:09:32,293 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=0 HTTP/1.1" 301 90
+2024-06-04 19:09:32,351 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=0 HTTP/1.1" 200 41871
+2024-06-04 19:09:32,456 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:09:32,456 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:09:32,456 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:09:32,456 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:09:32,456 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:09:32,456 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:09:32,456 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:09:32,456 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:09:32,456 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:09:32,456 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:09:32,456 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:09:32,457 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:09:32,457 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:09:32,457 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:09:32,457 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:09:32,457 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:09:32,457 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:09:32,457 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:09:32,457 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:09:32,457 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:09:32,457 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:09:32,457 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:09:32,457 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:09:32,457 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:09:32,458 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:09:32,458 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:09:32,458 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:09:32,458 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:09:32,458 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:09:32,458 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:09:32,458 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:09:32,460 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:09:32,862 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=1 HTTP/1.1" 301 90
+2024-06-04 19:09:33,614 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=1 HTTP/1.1" 200 41692
+2024-06-04 19:09:33,693 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:09:33,693 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:09:33,693 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:09:33,693 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:09:33,693 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:09:33,693 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:09:33,693 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:09:33,694 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:09:33,694 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:09:33,694 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:09:33,694 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:09:33,694 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:09:33,694 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:09:33,694 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:09:33,694 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:09:33,694 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:09:33,694 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:09:33,694 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:09:33,694 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:09:33,694 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:09:33,694 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:09:33,694 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:09:33,694 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:09:33,695 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:09:33,695 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:09:33,695 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:09:33,695 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:09:33,695 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:09:33,695 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:09:33,695 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:09:33,695 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:09:58,715 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:09:59,029 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=0 HTTP/1.1" 301 90
+2024-06-04 19:09:59,175 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=0 HTTP/1.1" 200 41601
+2024-06-04 19:09:59,273 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:09:59,274 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:09:59,274 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:09:59,274 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:09:59,274 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:09:59,274 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:09:59,274 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:09:59,274 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:09:59,274 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:09:59,274 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:09:59,274 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:09:59,274 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:09:59,274 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:09:59,275 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:09:59,275 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:09:59,275 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:09:59,275 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:09:59,275 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:09:59,275 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:09:59,275 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:09:59,275 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:09:59,275 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:09:59,275 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:09:59,275 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:09:59,275 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:09:59,275 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:09:59,275 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:09:59,275 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:09:59,275 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:09:59,276 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:09:59,276 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:09:59,336 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:09:59,664 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=1 HTTP/1.1" 301 90
+2024-06-04 19:09:59,764 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=1 HTTP/1.1" 200 41692
+2024-06-04 19:09:59,855 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:09:59,855 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:09:59,855 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:09:59,855 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:09:59,855 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:09:59,855 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:09:59,856 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:09:59,856 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:09:59,856 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:09:59,856 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:09:59,856 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:09:59,856 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:09:59,856 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:09:59,856 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:09:59,856 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:09:59,856 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:09:59,856 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:09:59,856 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:09:59,856 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:09:59,856 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:09:59,856 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:09:59,857 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:09:59,857 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:09:59,857 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:09:59,857 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:09:59,857 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:09:59,857 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:09:59,857 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:09:59,857 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:09:59,857 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:09:59,857 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:10:15,035 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:10:15,306 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=0 HTTP/1.1" 301 90
+2024-06-04 19:10:15,358 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=0 HTTP/1.1" 200 41601
+2024-06-04 19:10:15,449 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:10:15,449 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:10:15,449 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:10:15,449 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:10:15,449 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:10:15,449 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:10:15,449 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:10:15,450 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:10:15,450 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:10:15,450 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:10:15,450 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:10:15,450 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:10:15,450 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:10:15,450 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:10:15,450 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:10:15,450 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:10:15,450 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:10:15,450 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:10:15,450 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:10:15,450 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:10:15,450 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:10:15,450 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:10:15,450 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:10:15,450 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:10:15,451 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:10:15,451 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:10:15,451 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:10:15,451 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:10:15,451 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:10:15,451 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:10:15,451 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:10:15,453 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:10:15,649 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=1 HTTP/1.1" 301 90
+2024-06-04 19:10:15,743 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=1 HTTP/1.1" 200 41692
+2024-06-04 19:10:15,910 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:10:15,911 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:10:15,911 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:10:15,911 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:10:15,911 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:10:15,911 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:10:15,911 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:10:15,911 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:10:15,911 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:10:15,911 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:10:15,911 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:10:15,911 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:10:15,911 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:10:15,911 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:10:15,911 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:10:15,912 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:10:15,912 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:10:15,912 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:10:15,912 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:10:15,912 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:10:15,912 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:10:15,912 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:10:15,912 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:10:15,912 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:10:15,912 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:10:15,912 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:10:15,912 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:10:15,912 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:10:15,912 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:10:15,913 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:10:15,913 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:10:24,387 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:10:24,641 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=0 HTTP/1.1" 301 90
+2024-06-04 19:10:24,718 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=0 HTTP/1.1" 200 41601
+2024-06-04 19:10:24,826 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:10:24,826 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:10:24,826 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:10:24,826 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:10:24,827 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:10:24,827 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:10:24,827 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:10:24,827 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:10:24,827 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:10:24,828 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:10:24,828 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:10:24,828 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:10:24,828 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:10:24,828 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:10:24,829 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:10:24,829 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:10:24,829 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:10:24,829 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:10:24,829 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:10:24,830 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:10:24,830 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:10:24,830 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:10:24,830 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:10:24,830 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:10:24,830 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:10:24,831 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:10:24,831 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:10:24,831 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:10:24,831 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:10:24,831 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:10:24,832 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:10:24,834 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:10:25,063 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=1 HTTP/1.1" 301 90
+2024-06-04 19:10:25,121 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=1 HTTP/1.1" 200 41692
+2024-06-04 19:10:25,222 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:10:25,222 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:10:25,222 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:10:25,222 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:10:25,223 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:10:25,223 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:10:25,223 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:10:25,223 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:10:25,224 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:10:25,224 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:10:25,224 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:10:25,224 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:10:25,224 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:10:25,225 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:10:25,225 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:10:25,225 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:10:25,225 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:10:25,226 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:10:25,226 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:10:25,226 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:10:25,226 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:10:25,226 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:10:25,227 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:10:25,227 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:10:25,227 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:10:25,227 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:10:25,227 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:10:25,228 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:10:25,228 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:10:25,228 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:10:25,228 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:10:58,842 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:10:59,115 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=0 HTTP/1.1" 301 90
+2024-06-04 19:10:59,163 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=0 HTTP/1.1" 200 41601
+2024-06-04 19:10:59,270 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:10:59,270 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:10:59,270 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:10:59,270 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:10:59,271 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:10:59,271 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:10:59,271 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:10:59,271 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:10:59,271 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:10:59,272 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:10:59,272 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:10:59,272 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:10:59,272 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:10:59,272 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:10:59,273 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:10:59,273 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:10:59,273 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:10:59,273 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:10:59,273 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:10:59,274 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:10:59,274 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:10:59,274 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:10:59,274 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:10:59,274 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:10:59,275 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:10:59,275 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:10:59,275 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:10:59,275 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:10:59,275 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:10:59,276 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:10:59,276 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:10:59,278 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:10:59,462 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=1 HTTP/1.1" 301 90
+2024-06-04 19:10:59,509 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=1 HTTP/1.1" 200 41692
+2024-06-04 19:10:59,597 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:10:59,597 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:10:59,598 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:10:59,598 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:10:59,598 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:10:59,598 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:10:59,598 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:10:59,599 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:10:59,599 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:10:59,599 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:10:59,599 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:10:59,599 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:10:59,600 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:10:59,600 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:10:59,600 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:10:59,600 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:10:59,601 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:10:59,601 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:10:59,601 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:10:59,601 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:10:59,601 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:10:59,602 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:10:59,602 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:10:59,602 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:10:59,602 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:10:59,602 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:10:59,603 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:10:59,603 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:10:59,603 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:10:59,603 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:10:59,603 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:11:12,878 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:11:13,148 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=0 HTTP/1.1" 301 90
+2024-06-04 19:11:13,208 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=0 HTTP/1.1" 200 41601
+2024-06-04 19:11:13,329 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:11:13,329 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:11:13,329 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:11:13,330 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:11:13,330 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:11:13,330 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:11:13,330 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:11:13,331 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:11:13,331 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:11:13,331 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:11:13,331 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:11:13,331 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:11:13,332 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:11:13,332 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:11:13,332 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:11:13,332 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:11:13,332 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:11:13,333 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:11:13,333 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:11:13,333 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:11:13,333 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:11:13,333 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:11:13,334 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:11:13,334 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:11:13,334 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:11:13,334 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:11:13,335 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:11:13,335 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:11:13,335 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:11:13,335 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:11:13,335 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:11:13,338 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:11:13,606 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=1 HTTP/1.1" 301 90
+2024-06-04 19:11:13,665 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=1 HTTP/1.1" 200 41692
+2024-06-04 19:11:13,750 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:11:13,750 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:11:13,750 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:11:13,750 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:11:13,750 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:11:13,751 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:11:13,751 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:11:13,751 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:11:13,751 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:11:13,751 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:11:13,752 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:11:13,752 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:11:13,752 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:11:13,752 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:11:13,752 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:11:13,753 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:11:13,753 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:11:13,753 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:11:13,753 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:11:13,753 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:11:13,753 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:11:13,754 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:11:13,754 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:11:13,754 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:11:13,754 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:11:13,754 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:11:13,755 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:11:13,755 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:11:13,755 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:11:13,755 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:11:13,755 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:11:41,778 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:11:42,151 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=0 HTTP/1.1" 301 90
+2024-06-04 19:11:42,200 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=0 HTTP/1.1" 200 41601
+2024-06-04 19:11:42,328 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:11:42,328 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:11:42,329 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:11:42,329 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:11:42,329 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:11:42,329 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:11:42,330 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:11:42,330 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:11:42,330 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:11:42,330 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:11:42,330 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:11:42,331 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:11:42,331 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:11:42,331 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:11:42,331 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:11:42,331 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:11:42,332 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:11:42,332 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:11:42,332 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:11:42,332 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:11:42,333 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:11:42,333 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:11:42,333 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:11:42,333 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:11:42,333 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:11:42,334 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:11:42,334 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:11:42,334 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:11:42,334 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:11:42,334 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:11:42,335 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:11:42,337 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:11:42,591 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=1 HTTP/1.1" 301 90
+2024-06-04 19:11:42,697 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=1 HTTP/1.1" 200 41692
+2024-06-04 19:11:42,812 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:11:42,812 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:11:42,812 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:11:42,813 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:11:42,813 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:11:42,813 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:11:42,813 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:11:42,813 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:11:42,814 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:11:42,814 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:11:42,814 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:11:42,814 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:11:42,815 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:11:42,815 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:11:42,815 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:11:42,815 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:11:42,815 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:11:42,816 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:11:42,816 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:11:42,816 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:11:42,816 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:11:42,816 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:11:42,817 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:11:42,817 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:11:42,817 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:11:42,817 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:11:42,817 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:11:42,818 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:11:42,818 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:11:42,818 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:11:42,818 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:14:34,486 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:14:34,733 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=0 HTTP/1.1" 301 90
+2024-06-04 19:14:34,972 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=0 HTTP/1.1" 200 41745
+2024-06-04 19:14:35,069 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:14:35,069 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:14:35,069 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:14:35,069 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:14:35,069 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:14:35,069 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:14:35,069 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:14:35,069 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:14:35,069 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:14:35,069 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:14:35,069 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:14:35,070 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:14:35,070 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:14:35,070 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:14:35,070 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:14:35,070 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:14:35,070 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:14:35,070 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:14:35,070 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:14:35,070 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:14:35,070 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:14:35,070 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:14:35,070 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:14:35,070 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:14:35,070 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:14:35,070 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:14:35,071 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:14:35,071 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:14:35,071 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:14:35,071 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:14:35,071 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:14:35,073 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:14:35,258 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=1 HTTP/1.1" 301 90
+2024-06-04 19:14:35,612 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=1 HTTP/1.1" 200 41610
+2024-06-04 19:14:35,682 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:14:35,682 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:14:35,682 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:14:35,682 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:14:35,682 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:14:35,682 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:14:35,682 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:14:35,682 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:14:35,682 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:14:35,682 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:14:35,682 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:14:35,682 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:14:35,682 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:14:35,683 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:14:35,683 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:14:35,683 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:14:35,683 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:14:35,683 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:14:35,683 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:14:35,683 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:14:35,683 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:14:35,683 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:14:35,683 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:14:35,683 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:14:35,683 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:14:35,683 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:14:35,683 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:14:35,683 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:14:35,683 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:14:35,684 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:14:35,684 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:14:40,507 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:14:40,718 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=0 HTTP/1.1" 301 90
+2024-06-04 19:14:40,827 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=0 HTTP/1.1" 200 41745
+2024-06-04 19:14:40,959 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:14:40,959 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:14:40,960 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:14:40,960 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:14:40,960 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:14:40,960 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:14:40,960 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:14:40,961 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:14:40,961 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:14:40,961 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:14:40,961 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:14:40,961 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:14:40,962 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:14:40,962 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:14:40,962 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:14:40,962 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:14:40,962 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:14:40,962 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:14:40,963 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:14:40,963 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:14:40,963 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:14:40,963 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:14:40,963 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:14:40,964 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:14:40,964 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:14:40,964 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:14:40,964 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:14:40,964 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:14:40,965 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:14:40,965 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:14:40,965 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:14:40,968 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:14:41,231 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=1 HTTP/1.1" 301 90
+2024-06-04 19:14:41,285 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=1 HTTP/1.1" 200 41610
+2024-06-04 19:14:41,398 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:14:41,399 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:14:41,399 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:14:41,399 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:14:41,399 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:14:41,400 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:14:41,400 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:14:41,400 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:14:41,400 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:14:41,401 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:14:41,401 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:14:41,401 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:14:41,401 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:14:41,401 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:14:41,402 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:14:41,402 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:14:41,402 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:14:41,402 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:14:41,402 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:14:41,403 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:14:41,403 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:14:41,403 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:14:41,403 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:14:41,404 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:14:41,404 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:14:41,404 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:14:41,404 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:14:41,404 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:14:41,405 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:14:41,405 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:14:41,405 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:14:55,417 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:14:55,733 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=0 HTTP/1.1" 301 90
+2024-06-04 19:14:55,830 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=0 HTTP/1.1" 200 41745
+2024-06-04 19:14:55,939 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:14:55,939 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:14:55,940 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:14:55,940 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:14:55,940 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:14:55,940 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:14:55,941 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:14:55,941 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:14:55,941 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:14:55,941 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:14:55,941 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:14:55,942 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:14:55,942 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:14:55,942 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:14:55,942 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:14:55,942 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:14:55,943 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:14:55,943 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:14:55,943 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:14:55,943 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:14:55,943 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:14:55,944 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:14:55,944 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:14:55,944 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:14:55,944 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:14:55,944 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:14:55,945 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:14:55,945 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:14:55,945 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:14:55,945 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:14:55,946 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm
+2024-06-04 19:14:55,948 - DEBUG - Starting new HTTPS connection (1): www.subito.it:443
+2024-06-04 19:14:56,247 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=God%20of%20war%20ragnarok&o=1 HTTP/1.1" 301 90
+2024-06-04 19:14:56,307 - DEBUG - https://www.subito.it:443 "GET /annunci-italia/vendita/usato/?q=god+of+war+ragnarok&o=1 HTTP/1.1" 200 41610
+2024-06-04 19:14:56,400 - DEBUG - Titolo: god of war ragnarok, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catania-554913393.htm
+2024-06-04 19:14:56,401 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-catanzaro-554914849.htm
+2024-06-04 19:14:56,401 - DEBUG - Titolo: god of war ragnarok ps5, Prezzo: 45, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-como-554909907.htm
+2024-06-04 19:14:56,401 - DEBUG - Titolo: God of War - Ragnarok per PS5, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-per-ps5-palermo-554895948.htm
+2024-06-04 19:14:56,401 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:14:56,401 - DEBUG - Titolo: PS5 GOD OF WAR RAGNAROK EU, Prezzo: 52, URL: https://www.subito.it/videogiochi/ps5-god-of-war-ragnarok-eu-napoli-498183255.htm
+2024-06-04 19:14:56,402 - DEBUG - Titolo: God of war ragnarok, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-napoli-554881408.htm
+2024-06-04 19:14:56,402 - DEBUG - Titolo: giochi ps4, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps4-messina-554817465.htm
+2024-06-04 19:14:56,402 - DEBUG - Titolo: God of war Ragnarok, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-monza-554813350.htm
+2024-06-04 19:14:56,402 - DEBUG - Titolo: God of War Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554711320.htm
+2024-06-04 19:14:56,403 - DEBUG - Titolo: God of war Ragnarok ps4, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-milano-554721606.htm
+2024-06-04 19:14:56,403 - DEBUG - Titolo: God of War  Ragnarok Ps5, Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-avellino-554713115.htm
+2024-06-04 19:14:56,403 - DEBUG - Titolo: God Of War Ragnarok , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-foggia-554630990.htm
+2024-06-04 19:14:56,403 - DEBUG - Titolo: Giochi per PS5, Prezzo: 45, URL: https://www.subito.it/videogiochi/giochi-per-ps5-catania-554627066.htm
+2024-06-04 19:14:56,403 - DEBUG - Titolo: PS5 DISCO ANNO 2021, Prezzo: 500, URL: https://www.subito.it/videogiochi/ps5-disco-anno-2021-padova-554622645.htm
+2024-06-04 19:14:56,404 - DEBUG - Titolo: Giochi ps4, Prezzo: 25, URL: https://www.subito.it/videogiochi/giochi-ps4-sassari-554571331.htm
+2024-06-04 19:14:56,404 - DEBUG - Titolo: Ps4 500gb, Prezzo: 150, URL: https://www.subito.it/videogiochi/ps4-500gb-sassari-554571891.htm
+2024-06-04 19:14:56,404 - DEBUG - Titolo: God of War Ragnarok, Prezzo: 40, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-roma-554539316.htm
+2024-06-04 19:14:56,404 - DEBUG - Titolo: giochi PS4, Prezzo: 150, URL: https://www.subito.it/videogiochi/giochi-ps4-piacenza-554485065.htm
+2024-06-04 19:14:56,404 - DEBUG - Titolo: PlayStation 5 + God of War: Ragnarok, Prezzo: 599, URL: https://www.subito.it/videogiochi/playstation-5-god-of-war-ragnarok-bari-554473664.htm
+2024-06-04 19:14:56,405 - DEBUG - Titolo: (DIGITALE) God of War Ragnarok PS5, Prezzo: 30, URL: https://www.subito.it/videogiochi/digitale-god-of-war-ragnarok-ps5-napoli-554361479.htm
+2024-06-04 19:14:56,405 - DEBUG - Titolo: God of War Ragnarok e A Plague Tale Innocence PS5, Prezzo: 42, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-e-a-plague-tale-innocence-ps5-monza-554351861.htm
+2024-06-04 19:14:56,405 - DEBUG - Titolo: God of war Ragnarok Ps5 , Prezzo: 30, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-genova-554346759.htm
+2024-06-04 19:14:56,405 - DEBUG - Titolo: God Of War Ragnarok Ps4 Con 2 Dischi, Prezzo: 50, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps4-con-2-dischi-napoli-554334085.htm
+2024-06-04 19:14:56,405 - DEBUG - Titolo: giochi per ps5, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps5-roma-554289563.htm
+2024-06-04 19:14:56,406 - DEBUG - Titolo: God of War Ragnarok codice ps5, Prezzo: 25, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-codice-ps5-verbano-cusio-ossola-554261971.htm
+2024-06-04 19:14:56,406 - DEBUG - Titolo: giochi PS5, Prezzo: 70, URL: https://www.subito.it/videogiochi/giochi-ps5-venezia-554261268.htm
+2024-06-04 19:14:56,406 - DEBUG - Titolo: Videogiochi nuovi sigillati PS4 PS5, Prezzo: No price, URL: https://www.subito.it/videogiochi/videogiochi-nuovi-sigillati-ps4-ps5-bari-554250029.htm
+2024-06-04 19:14:56,406 - DEBUG - Titolo: Giochi per ps4, Prezzo: No price, URL: https://www.subito.it/videogiochi/giochi-per-ps4-torino-554149649.htm
+2024-06-04 19:14:56,407 - DEBUG - Titolo: God of War Ragnarok Collector's Edition, Prezzo: 160, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-collector-s-edition-udine-554147920.htm
+2024-06-04 19:14:56,407 - DEBUG - Titolo: God of war ragnarok ps5, Prezzo: 35, URL: https://www.subito.it/videogiochi/god-of-war-ragnarok-ps5-varese-554112331.htm

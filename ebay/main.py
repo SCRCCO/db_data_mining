@@ -14,7 +14,7 @@ nltk.data.find('tokenizers/punkt')
 
 
 # Configurazione del logger
-logging.basicConfig(filename='ebay_scraper.log', level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(filename='ebay/ebay_scraper.log', level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 def scrape_ebay(search_query):
     results = []
     removed_items = [] 
@@ -57,13 +57,13 @@ def scrape_ebay(search_query):
             except ValueError:
                 # Ignora se non riesci ad estrarre il prezzo
                 continue
-
-            # Registra i dettagli del prezzo e del prodotto nel log
-            logging.debug(f"Titolo: {title_text}, Prezzo: {price_text}, URL: {url}")
             
             # Estrarre il link al prodotto
             link = item.find('a', class_='s-item__link')
             link_url = link['href'] if link else "No link"
+
+            # Registra i dettagli del prezzo e del prodotto nel log
+            logging.debug(f"Titolo: {title_text}, Prezzo: {price_text}, URL: {link_url}")
             
             # Estrarre lo stato del prodotto (nuovo o usato)
             condition = item.find('span', class_='SECONDARY_INFO')
@@ -76,7 +76,7 @@ def scrape_ebay(search_query):
             # Aggiungere i risultati alla listaß
             results.append({
                 'title': title_text,
-                'price': price_text,
+                'prices': price_text,
                 'link': link_url,
                 'condition': condition_text,
                 'auction': auction_text
@@ -140,6 +140,8 @@ print(f"Prezzo medio degli articoli usati: {average_used_price:.2f} EUR")
 
 # Salvare i risultati filtrati in un file JSON
 with open('filtered_results_ebay.json', 'w', encoding='utf-8') as file:
-    json.dump(r, file, ensure_ascii=False, indent=4)
+    json.dump(results, file, ensure_ascii=False, indent=4)
 
 print("I risultati filtrati sono stati salvati in 'filtered_results_ebay.json'.")
+
+#TODO integrare differenza IQR come su subito.it
